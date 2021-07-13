@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/diiviij1" target="blank"><img src="https://img.shields.io/twitter/follow/diiviij1?logo=twitter&style=for-the-badge" alt="diiviij1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [diiviij.github.io/#work]<a href="https://diiviij.github.io/#work">
+- 👨‍💻 All of my projects are available at [diiviij.github.io/#work](diiviij.github.io/#work)
 
-- 📝 I regularly write articles on [www.learn.bcabuddy.co/articles]<a href="www.learn.bcabuddy.co/articles">
+- 📝 I regularly write articles on [www.learn.bcabuddy.co/articles](www.learn.bcabuddy.co/articles)
 
 - 📫 How to reach me **divijj01@gmail.com**
 
-- 📄 Know about my experiences [diiviij.github.io]<a href="https://diiviij.github.io">
+- 📄 Know about my experiences [diiviij.github.io](diiviij.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
