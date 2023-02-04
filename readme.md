@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Selenium-webdriver**
 
-- 👨‍💻 All of my projects are available at [diiviij.github.io](diiviij.github.io)
+- 👨‍💻 All of my projects are available at [https://diiviij.netlify.app](diiviij.netlify.app)
 
 - 📝 I regularly tweet on [https://twitter.com/diiviij1](https://twitter.com/diiviij1)
 
